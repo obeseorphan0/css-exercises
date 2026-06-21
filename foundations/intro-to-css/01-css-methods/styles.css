@@ -1,0 +1,9 @@
+/* Contains the styles for index.html in intro-to-css/01-css-methods */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
