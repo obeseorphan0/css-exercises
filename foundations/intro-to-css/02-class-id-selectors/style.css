@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+/* The CSS document for index.html in directory 02-class-id-selecctors/ */
+p{
+    background-color: rgb(236, 157, 148);
+    font-family: "Verdana","DejaVu Sans", sans-serif;
+}
+
+#second-element{
+    color: blue;
+    font-size: 36px;
+}
+
+#third-element{
+    font-size: 36px;
+}
+
+#fourth-element{
+    background-color: #67f267;
+    font-size: 24px;
+    font-weight: bold;
+}
