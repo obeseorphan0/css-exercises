@@ -1,1 +1,8 @@
-/* Add CSS Styling */
+/* This file contains CSS styles for the file index.html in the directory 05-descendant-combinator/ */
+
+div p{
+        background-color: yellow;
+        color: red;
+        font-size: 20px;
+        text-align: center;
+}
